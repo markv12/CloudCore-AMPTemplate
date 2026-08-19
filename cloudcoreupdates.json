@@ -3,8 +3,8 @@
         "UpdateStageName": "Download Latest Server Release",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "GithubRelease",
-        "UpdateSourceArgs": "markv12/SuperCloudCube-AMPTemplate",
-        "UpdateSourceData": "SuperCloudCubeServer-Linux.zip",
+        "UpdateSourceArgs": "markv12/CloudCore-AMPTemplate",
+        "UpdateSourceData": "CloudCoreServer-Linux.zip",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true,
@@ -14,7 +14,7 @@
         "UpdateStageName": "Make Server Executable",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SetExecutableFlag",
-        "UpdateSourceArgs": "{{$FullBaseDir}}SuperCloudCubeServer.x86_64",
+        "UpdateSourceArgs": "{{$FullBaseDir}}CloudCoreServer.x86_64",
         "SkipOnFailure": false
     }
 ]

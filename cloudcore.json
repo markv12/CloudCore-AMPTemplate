@@ -1,0 +1,9 @@
+{
+    "id": "6ffea7cd-138f-4879-b4af-9ca874b5d5c0",
+    "authors": ["Scott Steffes"],
+    "origin": "https://github.com/markv12/CloudCore-AMPTemplate.git",
+    "url": "https://github.com/markv12/CloudCore-AMPTemplate",
+    "imagefile": "https://raw.githubusercontent.com/markv12/CloudCore-AMPTemplate/main/SCCIcon.png",
+    "prefix": "CloudCore",
+    "repotype": "AppTemplates"
+}

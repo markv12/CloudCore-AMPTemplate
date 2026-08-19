@@ -1,7 +1,7 @@
 [
     {
         "DisplayName": "Save / World Name",
-        "Category": "SuperCloudCube:stadia_controller",
+        "Category": "CloudCore:stadia_controller",
         "Subcategory": "Server:dns:1",
         "Description": "Name of the world save slot to load or create. Passed to the server as '-save'. Worlds are stored under the instance's 'saves' directory.",
         "Keywords": "save,world,name",
@@ -14,7 +14,7 @@
     },
     {
         "DisplayName": "Player Limit",
-        "Category": "SuperCloudCube:stadia_controller",
+        "Category": "CloudCore:stadia_controller",
         "Subcategory": "Server:dns:1",
         "Description": "Maximum number of players shown in AMP. Note: the game server does not currently enforce a hard cap; this is used for AMP's UI and player-count display.",
         "Keywords": "max,players,limit,slots",
